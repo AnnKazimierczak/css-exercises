@@ -1,0 +1,23 @@
+.odd {
+    background-color: #FFA5F4;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.time {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#second {
+    color: #5D84EF;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #33FF99;
+    font-weight: 700;
+    font-size: 24px;
+}
